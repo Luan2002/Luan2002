@@ -29,7 +29,7 @@ Currently an Software Engineer student.
      <a href="https://instagram.com/luangomesreal?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/luan-gomes-193292202"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href = "mailto:luan.gomesao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      ![Snake animation](https://github.com/Luan2002/Luan2002/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/luan2002/luan2002/blob/output/github-contribution-grid-snake.svg)
       
      
      
