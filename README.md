@@ -31,7 +31,7 @@ Currently an Software Engineer student.
      <a href = "mailto:luan.gomesao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       ![Snake animation](https://github.com/luan2002/luan2002/blob/output/github-contribution-grid-snake.svg)
        </div>
-      [![readme](https://github-readme-stats.vercel.app/api/pin/?username=luan2002&repo=luan2002&theme=react)](https://github.com/luan2002/luan2002)
+      [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LUAN2002&repo=LUAN2002&theme=react)](https://github.com/LUAN2002/LUAN2002)
   
       
      
