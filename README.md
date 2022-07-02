@@ -10,7 +10,7 @@ Currently an Software Engineer student.
   <a href="https://github.com/Luan2002">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luan2002&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan2002&layout=compact&langs_count=7&theme=dracula">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan2002&layout=compact&langs_count=7&theme=react">
   
 </div>
 
